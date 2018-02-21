@@ -1,0 +1,29 @@
+.form {
+    width: 700px;
+    background: #0E0F13;
+  
+   
+
+}
+input {
+    background: #0B0C10;
+    color: #86C232;
+    border: 1px solid black;
+}
+input:focus {
+    outline: none !important;
+    border: 1px solid #86C232;
+    box-shadow: 0 0 10px #719ECE;
+}
+button {
+    background: #0B0C10;
+    color: #86C232;
+    border: 1px solid black;
+
+}
+button:hover {
+    background:  #86C232;
+    color: #0B0C10;
+    font-weight: bold;
+    border: none;
+}
