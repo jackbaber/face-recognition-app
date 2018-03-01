@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Rank = () => (
-    <div className>
+    <div>
         <div className="white f3 center" style={{color: "#86c232"}}>
             {"Jack, your current rank is..."}
         </div>
